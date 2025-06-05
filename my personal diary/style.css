@@ -1,0 +1,22 @@
+Adds styling to create a visually appealing and consistent user interface.
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #f8f9fa, #e8eaf6);
+  color: #333;
+}
+
+.header {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 5px solid #fff;
+}
+
+button {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  padding: 12px 20px;
+  border-radius: 25px;
+}
